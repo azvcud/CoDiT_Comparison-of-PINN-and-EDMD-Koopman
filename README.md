@@ -1,0 +1,1 @@
+# CoDiT_Comparison-of-PINN-and-EDMD-Koopman
